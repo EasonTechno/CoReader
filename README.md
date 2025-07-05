@@ -5,7 +5,7 @@
   ![lisense](https://img.shields.io/github/license/EasonTechno/CoReader?color=blue)
   ![lisense](https://img.shields.io/badge/Eason-Techno-blue)
 
-  🌐 **语言|Languages**: [🇺🇸 English](README-us.md) | 🇨🇳 中文 | [🇪🇸 Español](docs/README-es.md)
+  [🇺🇸 English](README-us.md) | 🇨🇳 中文 | [🇪🇸 Español](docs/README-es.md)
 </div>
 
 ## 📑 内容目录
