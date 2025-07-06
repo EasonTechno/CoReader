@@ -1,4 +1,4 @@
-！<div align="center">
+<div align="center">
   <img src="logo.png" width="200" height="200">
   <h1>✨ CoReader 🚀</h1>
   
